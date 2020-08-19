@@ -1,29 +1,18 @@
-
 {
-  "subscriptions": [
+  "users": [
     {
-      "id": 200,
-      "name": "Internet",
-      "type": "INTERNET"
+      "name": "PARTH",
+      "mobile": "9767616227",
+      "email": "JAYPAL@fulcrumww.com",
+      "password": "!QAZ1qaz",
+      "id": 1
     },
     {
-      "id": 201,
-      "name": "Fixed Line",
-      "type": "TELEPHONY"
-    }
-  ],
-    "offers": [
-    {
-      "id": 100,
-      "name": "Internet Bundle",
-      "contractEndDate": "2016-05-01",
-      "contractStartDate": "2014-05-01"
-    },
-    {
-      "id": 101,
-      "name": "Cool Offer 2017",
-      "contractEndDate": "2019-01-01",
-      "contractStartDate": "2017-01-01"
+      "name": "Krupa Dave",
+      "mobile": "08401479473",
+      "email": "meet2prathm@gmail.ik",
+      "password": "!QAZ1qaz",
+      "id": 2
     }
   ]
 }
